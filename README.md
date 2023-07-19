@@ -1,6 +1,6 @@
 # spritle-test
 
-##open in intellij IDE
+##open in intellij IDE or any IDE with java17
 
 ##load the project using maven
 
